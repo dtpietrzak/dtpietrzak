@@ -1,11 +1,6 @@
-I'm currently a lead full-stack developer at Hunter Strategy,
+I'm a lead full-stack developer,
+working on a complex web app that's behind an NDA.
 
-working on a complex web app that's on private gitlab.
-
-(hence the appearance of little work on github)
-
-For fun and learning I'm writing a database in C.
-
-Watch that chaos here:
-
+For fun, I almost wrote a "database" in C that I never planned on using.
+Watch the chaos here:
 youtube: https://www.youtube.com/@dtpietrzak/streams
