@@ -6,4 +6,4 @@ Watch the chaos here:
  https://www.youtube.com/@dtpietrzak/streams
 
 Also check out my very WIP project, a React metaframework (we need more of those right?)
-corract.app
+  https://corract.app
